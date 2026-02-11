@@ -1,0 +1,47 @@
+header{
+    color: Green;
+
+    
+}
+
+blockquote{
+    background-color: pink;
+    color: #800000;
+    text-align: center;
+    max-width: fit-content;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+main{
+    background-color: violet;
+    border: 5px solid wheat;
+}
+
+p{
+    background-color: skyblue;
+    border: 2px solid wheat;
+}
+
+#countdown {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 40px 60px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+#timer {
+    font-size: 3rem;
+    letter-spacing: 3px;
+}
+
+.timer-unit {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 10px;
+    display: block;
+}
